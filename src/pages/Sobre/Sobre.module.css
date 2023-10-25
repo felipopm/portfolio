@@ -55,7 +55,7 @@
 @media (max-width: 390px) {
     .bio {
         flex-direction: column;
-        padding: 35px;
+        padding: 30px 25px 0px 25px;
     }
 
     .textos {
